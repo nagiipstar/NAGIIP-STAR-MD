@@ -51,6 +51,17 @@ src="https://files.catbox.moe/9n8gjp.jpg">
 </p>
 
 <p align="center">
+    <strong>CONTACT ME</strong>
+  <br>
+    <a href="https://t.me/nagiip_ztar">
+    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+  </a>
+  <a href="https://wa.link/umb31t">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  </a>
+</p>
+
+<p align="center">
     <strong>THIS BOT IS 100% NOT ENCRYPTED YOU CAN CHANGE ANYTHING</strong>
     <br>
 </p>
