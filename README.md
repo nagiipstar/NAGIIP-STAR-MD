@@ -3,7 +3,7 @@
 <img align="center" height="auto"
 src="https://files.catbox.moe/9n8gjp.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+NAGIIP+STAR+MD+MADE+BY;NAGIIP+STAR+DEV;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+NAGIIP+STAR+MD+MADE+BY;NAGIIP+ABDI+HASAN+ALI;THANKS+FOR+VISITING+MY+REPOSITORY)](https://git.io/typing-svg)
 <br>
 
  <p align="center">
