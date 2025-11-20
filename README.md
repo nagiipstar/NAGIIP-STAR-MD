@@ -34,7 +34,7 @@ src="https://files.catbox.moe/9n8gjp.jpg">
 <p align="center">
     <strong>GET PAIR CODE</strong>
   <br>
-    <a href="[https://github.com/nagiipstar/NAGIIP-STAR-MD/fork](https://knight-bot-paircode.onrender.com)" target="_blank">
+    <a href="https://knight-bot-paircode.onrender.com)" target="_blank">
         <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
     </a>
 </p>
