@@ -10,11 +10,11 @@ src="https://files.catbox.moe/9n8gjp.jpg">
 <a href="https://github.com/nagiipstar/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jeliostarr?color=purple&style=flat-square"></a>
 <a href="https://github.com/nagiipstar/NAGIIP-STAR-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nagiipstar/NAGIIP-STAR-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/nagiipstar/NAGIIP-STAR-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nagiipstar/NAGIIP-STAR-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/nagiipstar/NAGIIP-STAR-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nagiipstar/NAGIIP_STAR-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/nagiipstar/NAGIIP-STAR-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nagiipstar/NAGIIP_STAR-MD/label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/nagiipstar/NAGIIP-STAR-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/nagiipstar/NAGIIP_STAR-MD?style=flat-square&color=green"></a>
 <a href="https://github.com/nagiipstar/NAGIIP-STAR-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
 <a href="https://github.com/nagiipstar/NAGIIP-STAR-MD"Dev"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Jeliostarr&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=nagiipstar&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
   <a href="https://github.com/nagiipstar/NAGIIP-STAR-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0.5-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
