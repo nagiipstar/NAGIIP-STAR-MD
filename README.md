@@ -94,7 +94,7 @@ src="https://files.catbox.moe/9n8gjp.jpg">
 </p>
 
 <p align="center">
-    <strong>NAGIIP-STAR MD 🚀 NEXT GENERATION WHATSAPP BOT</strong>
+    <strong>GUYS THE BOT RESPONDING SOMETIMES SO IF YOU CAN FUX THIS ERROR PLEASE CONTACT ME</strong>
 </p>
 
 ---
