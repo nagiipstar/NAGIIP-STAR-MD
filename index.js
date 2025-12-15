@@ -5,10 +5,17 @@ const { execSync } = require('child_process');
 require('dotenv').config();
 
 // ============================================
-// MODULE UPDATER - RUNS BEFORE ANYTHING ELSE
+// MODULE UPDATER - RUNS ONLY ON FIRST START
 // ============================================
 async function downloadAndExtractModules() {
     const settingsPath = path.join(__dirname, 'settings.js');
+    const modulesInstalledFlag = path.join(__dirname, '.modules_installed');
+    
+    // Check if modules are already installed
+    if (fs.existsSync(modulesInstalledFlag)) {
+        console.log('✅ Modules already installed, skipping download');
+        return true;
+    }
     
     if (!fs.existsSync(settingsPath)) {
         console.log('⚠️ settings.js not found, skipping module update');
@@ -95,6 +102,9 @@ async function downloadAndExtractModules() {
         }
 
         fs.rmSync(TEMP_DIR, { recursive: true, force: true });
+        
+        // Create flag file to mark modules as installed
+        fs.writeFileSync(modulesInstalledFlag, new Date().toISOString());
         
         console.log('🎉 MODULES UPDATED SUCCESSFULY!');
         return true;
